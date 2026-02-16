@@ -158,18 +158,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-- **Email**: your.email@example.com
-- **GitHub Issues**: For bug reports and feature requests
-- **Discussions**: Join the conversation in GitHub Discussions
+Om Gedam
 
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
 ## Fun Facts
 
 - The 15-puzzle was invented by Noyes Palmer Chapman in 1874
 - The puzzle has approximately 1.3 trillion possible configurations
 - Half of all random configurations are unsolvable (our shuffle ensures solvability!)
-
----
-
-**Enjoy the game! Challenge your friends and see who can solve it in the fewest moves!** 🧩✨
-
-[⬆ Back to Top](#-number-slider-puzzle-game)
