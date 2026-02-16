@@ -2,7 +2,7 @@
 
 A classic 15-puzzle style sliding number puzzle game built with Python and Pygame. Challenge yourself to arrange the numbers in order by sliding tiles into the empty space!
 
-![Game Screenshot](screenshot.png)
+<img width="1211" height="864" alt="image" src="https://github.com/user-attachments/assets/4cb8a5e3-e1d4-4df3-a6fd-9aa5cc3efb0c" />
 
 ## Game Overview
 
